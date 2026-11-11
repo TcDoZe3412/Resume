@@ -1,1 +1,1 @@
-This project is the resume of mine having basic html and css
+This project is the resume of mine made with basic html and css
